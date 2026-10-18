@@ -136,5 +136,5 @@ This repository serves as a **public technical case study and architecture overv
 **Kabilan R** — Flutter & Mobile Application Developer  
 - **🌐 Portfolio**: [https://kabilan-portfolio.vercel.app](https://kabilan-portfolio.vercel.app)  
 - **🐙 GitHub**: [@Kabilan0624](https://github.com/Kabilan0624)  
-- **💼 LinkedIn**: [linkedin.com/in/kabilan-r]([https://linkedin.com/in/kabilan-r](https://www.linkedin.com/in/kabilan-r-91432b268)  
+- **💼 LinkedIn**: [linkedin.com/in/kabilan-r](https://www.linkedin.com/in/kabilan-r-91432b268)  
 - **📧 Email**: [kabilanr244@gmail.com](mailto:kabilanr244@gmail.com)
